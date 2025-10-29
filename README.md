@@ -72,8 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Steps:
 
+npx create-react-app custom-api-portal
+
 npm install -D tailwindcss
+
 npx tailwindcss init
 
+
 npm install -D tailwindcss@3 postcss autoprefixer
+
 npx tailwindcss init
